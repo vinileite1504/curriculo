@@ -1,2 +1,0 @@
-# curriculo
-meu curriculo basico
